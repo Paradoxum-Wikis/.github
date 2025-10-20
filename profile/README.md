@@ -1,8 +1,8 @@
 # Paradoxum Wikis
 
 You can find the repositories that are used by the **Tower Defense Simulator Wiki**, the **ALTER EGO Wiki**:
-* https://tds.fandom.com/
-* https://alter-ego.fandom.com/
+* https://tds.fandom.com/ (https://tds.wiki/)
+* https://alter-ego.fandom.com/ (https://alterego.wiki/)
 
 ...and their companion sites:
 * https://tds-editor.com/
